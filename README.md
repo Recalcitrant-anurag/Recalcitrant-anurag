@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Recalcitrant-anurag (Anurag Anand)
+- 👋 Hi, I’m Anurag Anand (@Recalcitrant-Anurag)
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning C++ DSA
 - 💞️ I’m looking to collaborate on ...
